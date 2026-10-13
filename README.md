@@ -1,12 +1,13 @@
 <div align="center">
+
 <p><code>curious0w@github ~ $ neofetch --live</code></p>
 
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="100%" style="width:100%;" valign="middle" align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="Retrato terminal animado de Arthur Oliveira" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="Retrato terminal animado de Arthur Oliveira" />
 </picture>
 </td>
 </tr>
@@ -47,8 +48,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&style=terminal&v=terminal-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&style=terminal&v=terminal-stack-1&mode=dark" width="100%" alt="Toolchain de Arthur Oliveira" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&style=terminal&v=terminal-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&style=terminal&v=terminal-stack-1&mode=dark" width="100%" alt="Toolchain de Arthur Oliveira" />
 </picture>
 </p>
 
@@ -62,8 +63,8 @@
 <h2><code>$ git launchpad --all</code></h2>
 
 <p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&repos=curious0w%2FNATX%2Ccurious0w%2FNetFish-Generator&v=terminal-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&repos=curious0w%2FNATX%2Ccurious0w%2FNetFish-Generator&v=terminal-projects-1&mode=dark" width="860" alt="Launchpad de projetos de Arthur Oliveira" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&repos=curious0w%2FNATX%2Ccurious0w%2FNetFish-Generator&v=terminal-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&repos=curious0w%2FNATX%2Ccurious0w%2FNetFish-Generator&v=terminal-projects-1&mode=dark" width="860" alt="Launchpad de projetos de Arthur Oliveira" />
 </picture></p>
 
 <table width="100%">
@@ -80,8 +81,8 @@
 <p align="center"><strong>working tree: clean · aprendendo e publicando de forma constante</strong></p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&style=terminal&v=terminal-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&style=terminal&v=terminal-stats-1&mode=dark" width="100%" alt="Estatísticas de contribuição de Arthur Oliveira" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&style=terminal&v=terminal-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&style=terminal&v=terminal-stats-1&mode=dark" width="100%" alt="Estatísticas de contribuição de Arthur Oliveira" />
 </picture>
 </p>
 
@@ -89,8 +90,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&v=terminal-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&v=terminal-heatmap-1&mode=dark" width="100%" alt="Gráfico de contribuições de Arthur Oliveira" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&v=terminal-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&v=terminal-heatmap-1&mode=dark" width="100%" alt="Gráfico de contribuições de Arthur Oliveira" />
 </picture>
 </p>
 
@@ -98,8 +99,8 @@
 
 <p>Aberto para trocar ideia sobre redes e segurança, revisar uma decisão técnica ou construir a próxima coisa útil.</p>
 <p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&v=terminal-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D4&v=terminal-social-1&mode=dark" width="100%" alt="Links de contato de Arthur Oliveira" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&v=terminal-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=curious0w&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194839389%3Fv%3D5&v=terminal-social-1&mode=dark" width="100%" alt="Links de contato de Arthur Oliveira" />
 </picture></p>
 <p align="center"><a href="https://github.com/curious0w">GitHub</a></p>
 <p align="center"><sub>Arthur Oliveira · central de comando terminal gerada com <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
