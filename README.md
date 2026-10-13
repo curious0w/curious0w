@@ -1,5 +1,4 @@
 <div align="center">
-
 <p><code>curious0w@github ~ $ neofetch --live</code></p>
 
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
